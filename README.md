@@ -1,3 +1,5 @@
+Simple API driven shoe designer application prototype. Choose your favorite team and player and base on their stats a new shoes design will be created. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
